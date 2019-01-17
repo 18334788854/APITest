@@ -4,13 +4,16 @@
   "description": "A socket.io demo by xingjian.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test1": "node ./node-fetch/app",
+    "test2": "node ./node-fetch/http"
   },
   "author": "xingjian",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "colors": "^1.3.3",
     "express": "^4.16.4",
+    "fs-extra": "^7.0.1",
     "node-fetch": "^2.3.0",
     "parseuri": "0.0.5",
     "socket.io": "^2.2.0",
