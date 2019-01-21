@@ -23,7 +23,7 @@ if(cluster.isMaster){
 }else{
           
           if(cluster.worker.id===1){
-                    p1=cluster.worker.process.fork("htto.js");
+                    p1=cluster.worker.process.fork("http.js");
                     console.log(p1.pid);
           }else if(cluster.worker.id===2){
                     p2=cluster.worker.process.fork("app.js");
