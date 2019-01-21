@@ -1,5 +1,5 @@
 {
-  "name": "chatdemo_xj",
+  "name": "APITest",
   "version": "1.0.0",
   "description": "A socket.io demo by xingjian.",
   "main": "index.js",
