@@ -1,8 +1,13 @@
 class Test{
           constructor(a,b){
-
+                    // this.a=a;
+                    // this.b=b;
           }
 }
 
-let test = new Test("b","a");
-console.log(test.a);
+class Test1 extends Test{
+
+}
+
+let test1 = new Test1("a","b");
+console.log(test1);
