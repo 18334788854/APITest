@@ -11,3 +11,5 @@ fse.copy(__dirname+"/fseAPI.js",__dirname+"/fseAPICopy.js")
 .then(()=>console.log(`${__filename} copy successful`))
 .catch((err)=>console.error(err));
 
+console.log("******************");
+
