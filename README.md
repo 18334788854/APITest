@@ -17,3 +17,7 @@ This will test much API features.
 ## bignumber
 
 > This will test bignumber module for nodejs.
+
+## elliptic
+
+> This will generate public/secret passphrase.
