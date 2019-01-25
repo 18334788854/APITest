@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23dc22d8-b178-435e-a3ab-6605df8a3798" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,20 +19,40 @@
     <session id="-1212700651">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ebookcoin/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="18" column="7" selection-start-line="18" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="50">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crypto/md5.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -38,7 +60,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ebookcoin" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -49,12 +71,760 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ebookcoin/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ebookcoin/helpers/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/helpers/validator/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/apidoc-core/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/apidoc-core/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/apidoc-core/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/apidoc/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/apidoc/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/archiver/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/archiver/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/archiver/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/archiver/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/argparse/node_modules/underscore.string/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/argparse/node_modules/underscore/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/array.prototype.find/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/array.prototype.findindex/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/asn1.js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/assertion-error/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/basic-auth-connect/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/binary/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/bindings/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/bl/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/bl/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/bl/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/blanket/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/browserify-bignum/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/browserify-cipher/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/browserify-des/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/browserify-rsa/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/browserify-sign/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/buffer-crc32/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/buffer-xor/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/buffer/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/buffers/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/bytebuffer/node_modules/long/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/bytebuffer/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/camel-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/chai/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/chainsaw/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/change-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cipher-base/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cli-table/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cli-table/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cli/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cli/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cli/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/coffee-script/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/compress-commons/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/compress-commons/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/constant-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cookiejar/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/crc32-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/crc32-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/create-ecdh/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/create-hash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/create-hmac/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cron-parser/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cryptiles/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/crypto-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/cycle/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/date-now/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/dateformat/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/dblite/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/decompress-zip/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/deep-eql/node_modules/type-detect/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/deep-eql/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/des.js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/diff/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/diffie-hellman/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/dot-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ed2curve/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ejs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/engine.io/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/es-abstract/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/es-to-primitive/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/eventemitter2/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/evp_bytestokey/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/exit/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/express-domain-middleware/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/express-query-int/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/express/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/eyes/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/faker/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/falafel/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/findup-sync/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/findup-sync/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/findup-sync/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/findup-sync/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/foreach/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/formidable/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/fstream/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/getobject/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/gift/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/growl/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-apidoc/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-cli/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-cli/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-contrib-compress/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-contrib-compress/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-contrib-compress/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-contrib-compress/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-contrib-jshint/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-exec/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-log-utils/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-log-utils/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-log-utils/node_modules/underscore.string/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-log-utils/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-log/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-log/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-log/node_modules/underscore.string/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-log/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-util/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-util/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-legacy-util/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt-obfuscator/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/grunt/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/has-binary2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/has-color/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/header-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/hmac-drbg/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/hooker/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/htmlparser2/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/image-type/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-callable/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-date-object/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-lower-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-regex/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-symbol/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-upper-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/is/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/jade/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/jade/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/jade/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/js-nacl/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/js-yaml/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/jshint/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/jshint/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/jshint/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/json-sql/node_modules/underscore/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/json-sql/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/jsonschema/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/klaw-sync/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/knuth-shuffle/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/lazystream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/lazystream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/linkify-it/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/lodash._baseget/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/lodash._topath/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/lodash.isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/long-timeout/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/long/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/lower-case-first/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/lower-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/markdown-it/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/markdown-it/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/match-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/match-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/md5.js/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mdurl/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/method-override/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/miller-rabin/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/minimalistic-assert/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/minimalistic-crypto-utils/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mkpath/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mocha/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mocha/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mocha/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mocha/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mocha/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mocha/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mocha/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/mocha/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/natives/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/no-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/node-int64/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/node-schedule/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/node.extend/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/node.extend/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/node.flow/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/nomnom/node_modules/underscore/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/nomnom/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/ansi/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/ansicolors/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/ansistyles/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/archy/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/async-some/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/char-spinner/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/chmodr/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/cmd-shim/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/columnify/node_modules/wcwidth/node_modules/defaults/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/columnify/node_modules/wcwidth/node_modules/defaults/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/columnify/node_modules/wcwidth/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/columnify/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/config-chain/node_modules/proto-list/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/config-chain/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/dezalgo/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/dezalgo/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/editor/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/fs-vacuum/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/fs-write-stream-atomic/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/fs-write-stream-atomic/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/fstream-npm/node_modules/fstream-ignore/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/fstream-npm/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/github-url-from-git/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/github-url-from-username-repo/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/glob/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/glob/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/init-package-json/node_modules/glob/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/init-package-json/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/init-package-json/node_modules/promzard/example/npm-init/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/init-package-json/node_modules/promzard/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/init-package-json/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/lockfile/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/lru-cache/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/lru-cache/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/minimatch/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/node-gyp/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/node-gyp/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/normalize-git-url/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/normalize-package-data/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-cache-filename/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-install-checks/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-package-arg/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-registry-client/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-registry-client/node_modules/retry/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-registry-client/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npm-user-validate/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/node_modules/are-we-there-yet/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/node_modules/gauge/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/node_modules/gauge/node_modules/lodash._baseslice/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/node_modules/gauge/node_modules/lodash._basetostring/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/node_modules/gauge/node_modules/lodash.pad/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/node_modules/gauge/node_modules/lodash.padend/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/node_modules/gauge/node_modules/lodash.padstart/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/node_modules/gauge/node_modules/lodash.tostring/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/opener/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/osenv/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/osenv/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-installed/node_modules/debuglog/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-installed/node_modules/readdir-scoped-modules/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-installed/node_modules/util-extend/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-installed/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-installed/test/fixtures/extraneous-detected/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-installed/test/fixtures/extraneous-dev-dep/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-installed/test/fixtures/grandparent-peer-dev/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-installed/test/fixtures/grandparent-peer/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-installed/test/fixtures/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-package-json/node_modules/glob/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-package-json/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-package-json/node_modules/json-parse-helpfulerror/node_modules/jju/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-package-json/node_modules/json-parse-helpfulerror/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-package-json/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read-package-json/test/fixtures/readmes/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/read/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/readable-stream/node_modules/buffer-shims/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/readable-stream/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/realize-package-specifier/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/bl/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/form-data/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-function/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/jsonpointer/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/pinkie-promise/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jodid25519/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/node-uuid/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/retry/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/sha/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/sha/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/slide/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/sorted-object/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/text-table/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/uid-number/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/umask/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/validate-npm-package-license/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/validate-npm-package-license/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/validate-npm-package-name/node_modules/builtins/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/validate-npm-package-name/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/which/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/node_modules/write-file-atomic/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/npm/test/fixtures/config/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/obfuscator/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/obfuscator/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/over/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/param-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/parse-asn1/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pascal-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/path-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pbkdf2/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pkginfo/examples/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pkginfo/examples/subdir/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pkginfo/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pretty-bytes/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/public-encrypt/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pullstream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/pullstream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/randombytes/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/randomfill/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/randomstring/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/redent/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/reduce-component/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/request/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/rmdir/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/sandbox/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/sentence-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/shelljs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/should-equal/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/should-format/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/should-type/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/should/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/sigmund/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/slice-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/slice-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/snake-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/socket.io/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/stack-trace/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/strftime/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/superagent/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/superagent/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/superagent/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/superagent/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/superagent/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/superagent/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/supertest/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/swap-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/tar-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/tar-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/tar-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/tar-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/title-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/to-iso-string/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/toposort/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/touch/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/touch/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/traverse/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/type-detect/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/uc.micro/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/uglify-js/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/underscore.string/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/underscore/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/universalify/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/unzip/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/unzip/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/unzip2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/unzip2/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/upper-case-first/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/upper-case/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/usage/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/util-extend/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/uws/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/valid-url/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/validator.js/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/validator/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/validator/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/winston/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/winston/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/winston/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/z-schema/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/z-schema/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/z-schema/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/zip-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/node_modules/zip-stream/package.json" />
+      <path value="$PROJECT_DIR$/ebookcoin/package.json" />
+      <path value="$PROJECT_DIR$/express/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
+    <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,7 +833,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,12 +843,13 @@
             <path>
               <item name="APITest" type="b2602c69:ProjectViewProjectNode" />
               <item name="APITest" type="462c0819:PsiDirectoryNode" />
-              <item name="ebookcoin" type="462c0819:PsiDirectoryNode" />
+              <item name="crypto" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,6 +857,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,6 +871,9 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="23dc22d8-b178-435e-a3ab-6605df8a3798" name="Default Changelist" comment="" />
@@ -108,22 +882,21 @@
       <option name="presentableId" value="Default" />
       <updated>1548164012023</updated>
       <workItem from="1548164015643" duration="56000" />
+      <workItem from="1548397887405" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56000" />
+    <option name="totallyTimeSpent" value="297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926794" visible="true" weight="0.24966975" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.24966975" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -131,16 +904,53 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ebookcoin/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="7" selection-start-line="18" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="50">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebookcoin/node_modules/mocha/mocha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="10368" column="40" lean-forward="true" selection-start-line="10368" selection-start-column="40" selection-end-line="10368" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/hash-base/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/md5.js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto/md5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
