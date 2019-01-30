@@ -47,7 +47,7 @@ app.get("/",function(req,res,next){
  */
 app.get("/index",function(req,res,next){
           res.render("index",{title:"hey",messages:"Hello world!"});
-})
+});
 /**
  * 测试next('route')用法
  */
@@ -62,7 +62,7 @@ app.get("/user/:id",(req,res,next)=>{
 });
 app.get("/user/:id",(req,res,next)=>{
           res.send(`special ${req.params.id}`);
-})
+});
 /**
  * 监听3000端口
  */
